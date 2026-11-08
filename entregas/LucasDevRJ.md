@@ -159,7 +159,7 @@ Os conectores pessoais (Notion, Gmail, Drive, Calendar, Trello e Claude Docs), m
 - [x] Sei quantas tools o agente vê na minha sessão e quanto as definições custam, com e sem o tool search.
 - [x] Cada tool minha tem nome verbo_objeto e descrição que diz o que faz, quando usar e o que retorna.
 - [x] Nenhum parâmetro é string livre onde um enum caberia, e todo erro diz como corrigir a chamada.
-- [x] Nenhum segredo em arquivo versionado; o token que uso expira.
+- [x] Nenhum segredo em arquivo versionado. (A parte "o token que uso expira" não se aplica: esta entrega não usa token. Os servidores são stdio locais, e o GitHub MCP remoto ficou de fora.)
 - [x] Todo número que cito vem com o comando que o gerou.
 - [x] No N3, cito as fontes com URL e sei dizer qual dos três ingredientes a minha defesa quebra (opção B) ou o que o servidor valida antes de aceitar uma chamada (opção A).
 - [x] Nada da minha empresa aparece na PR sem anonimizar: ela é pública.
